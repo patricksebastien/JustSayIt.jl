@@ -138,7 +138,7 @@ JustSayIt's primary dependencies are [Vosk], [Pynput], [PyCall.jl], [Conda.jl] a
 JustSayIt can be installed directly with the [Julia package manager](https://docs.julialang.org/en/v1/stdlib/Pkg/index.html) from the REPL:
 ```julia-repl
 julia>]
-  pkg> add https://github.com/omlins/JustSayIt
+  pkg> add https://github.com/omlins/JustSayIt.jl
 ```
 
 ## Your contributions
